@@ -1,6 +1,0 @@
-Student ID: ST003
-Name: Adewale
-Department: Information Technology
-Level: 400
-Course: Cloud Computing
-
