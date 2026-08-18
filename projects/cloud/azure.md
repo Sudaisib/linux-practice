@@ -8,3 +8,4 @@ Services studied:
 - Azure SQL
 - Virtual Networks
 - Azure Monitor
+- Azure DevOps is also being studied for CI/CD automation.
