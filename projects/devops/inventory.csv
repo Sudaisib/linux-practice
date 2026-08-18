@@ -1,0 +1,4 @@
+Server,Environment,IP,Status
+web01,Production,10.0.0.10,Running
+web02,Production,10.0.0.11,Running
+db01,Production,10.0.0.20,Running
