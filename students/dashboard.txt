@@ -1,0 +1,8 @@
+Student Dashboard
+
+Total Students: 2
+Active Students: 2
+Courses:
+- DevOps
+- Data Analytics
+- Cloud Computing
