@@ -9,4 +9,4 @@ Topics covered:
 - DevOps
 - Cloud Computing
 
-This project is focused on Data Analytics and Cloud Computing.
+This project is focused on Data Analytics, DevOps, Cloud Computing, and Cloud Engineering.
