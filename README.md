@@ -9,3 +9,4 @@ Topics covered:
 - DevOps
 - Cloud Computing
 
+This project is focused on DevOps and Cloud Engineering.
