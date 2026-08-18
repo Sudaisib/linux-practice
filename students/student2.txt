@@ -1,0 +1,6 @@
+Student ID: ST002
+Name: Zainab
+Department: Data Science
+Level: 200
+Course: Data Analytics
+
