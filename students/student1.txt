@@ -5,3 +5,4 @@ Level: 300
 Course: DevOps
 Status: Active
 Certification: GitHub Foundations
+Git Level: Intermediate
