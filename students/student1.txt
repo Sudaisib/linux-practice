@@ -4,3 +4,4 @@ Department: Computer Science
 Level: 300
 Course: DevOps
 Status: Active
+Certification: GitHub Foundations

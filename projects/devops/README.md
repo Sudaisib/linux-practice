@@ -7,3 +7,6 @@ Topics:
 - Automation
 - Monitoring
 - Infrastructure
+
+CI/CD automation is part of this project.
+
