@@ -8,3 +8,6 @@ Services studied:
 - IAM
 - VPC
 - CloudWatch
+
+Additional AWS Services will be documented.
+
