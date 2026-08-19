@@ -2,4 +2,4 @@ Staff ID: SF001
 Name: Oladimeji
 Role: Data Analyst
 Department: Analytics
-
+Certification: PL-300
